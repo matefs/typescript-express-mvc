@@ -26,38 +26,21 @@ Siga as instruções abaixo para configurar e executar o projeto:
 git clone https://github.com/matefs/typescript-express-mvc.git
 ```
 
-1. Navegue até o diretório raiz do projeto:
+2. Navegue até o diretório raiz do projeto:
 
 ```
 cd typescript-express-mvc
 ```
 
-1. Instale as dependências do projeto usando o npm:
+3. Instale as dependências do projeto usando o npm:
 
 ```
  npm install 
 ```
-
-1. Configure as variáveis de ambiente no arquivo **`.env`**. Você pode usar o arquivo **`.env.example`** como base:
-
-```
  
-cp .env.example .env 
-```
-
-Certifique-se de fornecer as informações corretas para o banco de dados PostgreSQL.
-
-1. Execute as migrações do banco de dados para criar as tabelas necessárias:
+4. Inicie o servidor de desenvolvimento:
 
 ```
- 
-npm run migrate 
-```
-
-1. Inicie o servidor de desenvolvimento:
-
-```
- 
 npm run dev 
 ```
 
