@@ -51,15 +51,13 @@ Após a inicialização bem-sucedida, o servidor estará acessível em [http://l
 ## **Estrutura do projeto**
 
 ```
-├── src/
-│   ├── config/
-│   │   └── database.ts
+├── src/ 
 │   ├── controllers/
-│   │   └── ExampleController.ts 
+│   │   └── UserController.ts 
 │   ├── models/
-│   │   └── ExampleModel.ts
+│   │   └── User.ts
 │   ├── routes/
-│   │   └── ExampleRoutes.ts 
+│   │   └── routes.ts 
 │   ├── app.ts   
 ├── .gitignore
 ├── package.json
