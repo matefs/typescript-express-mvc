@@ -69,8 +69,7 @@ Após a inicialização bem-sucedida, o servidor estará acessível em [http://l
 - O diretório **`controllers/`** contém os controladores que lidam com as requisições.
 - O diretório **`models/`** contém as definições dos modelos de dados.
 - O diretório **`routes/`** contém as definições das rotas da aplicação.
-- O arquivo **`app.ts`** é responsável por configurar a aplicação Express.
-- O arquivo **`server.ts`** é o ponto de entrada da aplicação.
+- O arquivo **`app.ts`**  é o ponto de entrada da aplicação. 
 - O arquivo **`package.json`** contém as dependências e scripts do projeto.
 - O arquivo **`tsconfig.json`** contém a configuração do compilador TypeScript.
 
