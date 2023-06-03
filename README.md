@@ -2,7 +2,8 @@
 
 Este repositório contém um exemplo de aplicativo web desenvolvido com TypeScript usando o framework Express e seguindo o padrão MVC (Model-View-Controller). O objetivo deste projeto é fornecer um ponto de partida para a criação de aplicativos web TypeScript com uma arquitetura organizada.
 
-![image](https://github.com/matefs/typescript-express-mvc/assets/30128774/1f45bc54-5c56-4f8d-a5a5-c21fd5407164)
+![image](https://github.com/matefs/typescript-express-mvc/assets/30128774/d7487f75-d5bb-4363-86b6-872301d3d8b2)
+
 
 ## **Funcionalidades**
 
